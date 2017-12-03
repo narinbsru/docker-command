@@ -1,6 +1,6 @@
 # docker-command
 
-docker pull apache:2.0  download docker
+docker pull apache:2.0  download docker  <br>
 
 docker run --name testapache -v ~/www:/usr/share/www/html:ro -p 80:80 -d apache:2.0
   --name testapache กำหนดชื่อ
