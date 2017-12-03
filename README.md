@@ -21,8 +21,10 @@ docker exec -it CONTAINER_ID bash เข้าไปที่เครื่อ�
 docker stop testapache  <br>
 docker rm testapache  ||  docker rmi container id <br>
 
+ <br>
+ <br>
 
-#docker compose <br>
+<h3>#docker compose </h3><br>
 Go to directory  <br>
 
 docker-compose up -d   # run compose <br>
