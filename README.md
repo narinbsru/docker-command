@@ -34,6 +34,7 @@ docker-compose stop     # stop all in docker file <br>
 docker-compose stop php  #stop only once <br>
 docker-compose start  # start all  <br>
 docker-compose start php  # start onec service <br>
+docker-compose down  # delete all <br>
  <br>
 Log <br>
 docker-compose log       # view log <br>
